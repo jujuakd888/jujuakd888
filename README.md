@@ -1,5 +1,5 @@
 ## Hi there 👋
-I’m Jude, a biotechnology scientist with expertise in molecular and cellular biology, bioinformatics, and clinical trial design. My work bridges wet-lab experimentation and computational analysis, from CRISPR genome editing and confocal imaging to omics pipelines and R-based modelling.
+I’m Jude, a biotechnology scientist with expirence in molecular and cellular biology, bioinformatics, and clinical trial design. My work bridges wet-lab experimentation and computational analysis, from CRISPR genome editing and confocal imaging to omics pipelines and R-based modelling.
 
 🔬 I’ve contributed to research at King’s College London and now at the University of Oxford.
 
