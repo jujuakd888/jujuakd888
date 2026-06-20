@@ -1,13 +1,11 @@
 ## Hi there 👋
 I’m Jude, a biotechnology scientist with expirence in molecular and cellular biology, bioinformatics, and clinical trial design. My work bridges wet-lab experimentation and computational analysis, from CRISPR genome editing and confocal imaging to omics pipelines and R-based modelling.
 
-🔬 I’ve contributed to research at King’s College London and now at the University of Oxford.
+🔬 I’ve contributed to research at King’s College London, University of Oxford, and now Barts Cancer Institute. 
 
 💻 I develop reproducible workflows in R, Python, Java and Fiji/ImageJ, with repositories here showcasing pipelines for omics, microscopy, and molecular farming.
 
 ⚕️ Experienced in GCP-compliant trial design, I’ve worked on rare disease therapies and oncology-focused translational studies.
-
-🎨 Outside the lab, I’m a practising artist with exhibitions in London, New York, and Los Angeles  you can see my work at [judeakkad.art](https://www.judeakkad.art/).
 
 🌱 Currently, I’m focused on integrating bioinformatics, imaging, and molecular biology to accelerate therapeutic development.
  Reach me on [LinkedIn](https://www.linkedin.com/in/judeakkad/).
