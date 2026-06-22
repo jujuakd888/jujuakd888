@@ -5,9 +5,6 @@ I’m Jude, a biotechnology scientist with expirence in molecular and cellular b
 
 💻 I develop reproducible workflows in R, Python, Java and Fiji/ImageJ, with repositories here showcasing pipelines for omics, microscopy, and molecular farming.
 
-⚕️ Experienced in GCP-compliant trial design, I’ve worked on rare disease therapies and oncology-focused translational studies.
-
-🌱 Currently, I’m focused on integrating bioinformatics, imaging, and molecular biology to accelerate therapeutic development.
  Reach me on [LinkedIn](https://www.linkedin.com/in/judeakkad/).
 
 
